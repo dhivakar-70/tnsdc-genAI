@@ -38,6 +38,11 @@ The solution involves implementing a DCGAN architecture using TensorFlow, a popu
 - Fine-tune the model architecture and training process to improve image quality and convergence speed.
 - Experiment with different architectural variations, loss functions, and optimization techniques to enhance performance.
 
+### 6.Final output
+
+![dcgan](https://github.com/dhivakar-70/tnsdc-genAI/assets/114644591/77b02ead-94f1-4b0d-a5ba-c4ec8804b8e1)
+
+
 ## Repository Structure
 - `README.md`: Overview of the project, including problem statement, solution approach, and implementation steps.
 - `data/`: Directory for storing the MNIST dataset or other relevant data.
