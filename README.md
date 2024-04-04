@@ -47,8 +47,7 @@ The solution involves implementing a DCGAN architecture using TensorFlow, a popu
 - `README.md`: Overview of the project, including problem statement, solution approach, and implementation steps.
 - `data/`: Directory for storing the MNIST dataset or other relevant data.
 - `src/`: Source code directory containing Python scripts for data preprocessing, model implementation, training, and evaluation.
-- `results/`: Directory for storing generated images and evaluation results.
-- `requirements.txt`: File specifying dependencies required to run the project.
+
 
 ## Usage
 1. Clone the repository to your local machine.
